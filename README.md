@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   </picture>
 </p>　
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sakinom&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sakinom&theme=flat" />
