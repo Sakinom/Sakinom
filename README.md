@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats-nine-theta-11.vercel.app/api?username=Sakinom&count_private=true&show_icons=true&locale=en&theme=shadow_blue" alt="ovi" width="410" />
-<img src="https://github-readme-stats-nine-theta-11.vercel.app/api/top-langs?username=Sakinom&count_private=true&show_icons=true&locale=en&layout=compact&theme=shadow_blue" alt="ovi" />
+<p>
+  <img src="https://github-readme-stats-nine-theta-11.vercel.app/api?username=Sakinom&count_private=true&show_icons=true&locale=en&theme=buefy" alt="ovi" height="180" />
+  <img src="https://github-readme-stats-nine-theta-11.vercel.app/api/top-langs?username=Sakinom&count_private=true&show_icons=true&locale=en&layout=compact&theme=buefy" alt="ovi" height="180" />
+</p>
 
 # 💫 Contributions
 <!-- Rainbow Contribution 3D Figure -->
