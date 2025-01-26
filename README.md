@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sakinom&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p> -->
 
+# Contributions
 <!-- Rainbow Contribution 3D Figure -->
 <p align="left" >
   <picture>
@@ -26,4 +27,5 @@ Here are some ideas to get you started:
   </picture>
 </p>　
 
+# 🏆GitHub Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=Sakinom&theme=flat" />
