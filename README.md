@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Sakinom/Sakinom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakinom&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakinom&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sakinom&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sakinom&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sakinom&theme=juicyfresh&no-bg=true" /> -->
 
 <!-- Rainbow Contribution 3D Figure -->
 <p align="left">
